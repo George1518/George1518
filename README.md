@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm George 👋</h1>
+<h1 align="center">Hi, I'm Guganraj 👋</h1>
 
 <p align="center">
   <b>Fresher MERN Developer | Java & Spring Boot Enthusiast | Linux Fanatic</b>
