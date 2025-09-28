@@ -19,7 +19,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, Mongoose, MongoDB, bcrypt, mongo store, session
-- **Tools:** VSCode, Git, GitHub, Linux (learning)
+- **Tools:** VSCode, Git, GitHub, Postman, Linux (learning)
 - **Currently Learning:** Java, Spring Boot, advanced Linux skills
 
 ---
