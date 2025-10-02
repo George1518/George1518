@@ -34,7 +34,7 @@
 > A mini stock management system built with the **MERN stack** (MongoDB, Express, React + Vite, Node).  
 > Features authentication, role-based access control (Admin/User), and full CRUD operations with data validation.
 
-#### [EventHub](https://github.com/George1518/mern-stock-management)
+#### [EventHub](https://github.com/George1518/event-booking-management)
 > A full-stack event booking management system built with the **MERN stack**.  
 > Allows users to browse events, book tickets, and view bookings, while admins can manage events with full CRUD operations.
 
