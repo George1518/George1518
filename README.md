@@ -39,6 +39,7 @@
 > Allows users to browse events, book tickets, and view bookings, while admins can manage events with full CRUD operations.
 
 ---
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=george1518)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Get in Touch
 
