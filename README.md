@@ -1,59 +1,79 @@
 <h1 align="center">Hi, I'm Guganraj 👋</h1>
 
 <p align="center">
-  <b>MERN Stack Developer | MCA Student | Linux & RHCSA Aspirant</b>
+  <b>Full Stack Engineer • Linux & Systems Focus • MCA Student</b>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- Full-stack developer building structured, practical MERN applications.
-- Passionate about Linux, servers, and system-level problem-solving.
-- Preparing for the **Red Hat RHCSA** certification.
-- Learning TypeScript + strengthening core dev fundamentals.
+I build and ship production-ready applications with a strong focus on structure, maintainability, and real-world deployment.
 
----
+My interests lie at the intersection of application development and systems engineering — particularly Linux, cloud infrastructure, and backend architecture.
 
-### 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Material UI  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT/Auth  
-- **Tools:** Git, GitHub, Postman, Vite, Render, Linux (Rocky OS)  
-- **Learning:** TypeScript, Linux Admin, Shell, Basic DevOps
+Currently preparing for **RHCSA** and deepening my understanding of system administration, automation, and scalable backend design. Working on deployment processes in Azure VMs to bridge the gap between development and production.
 
 ---
 
-### 🌟 Featured Projects
+## 💻 Selected Work
 
-#### 🚀 **Guidra (V1 Released) — AI Learning Platform**
-A structured AI-powered learning app that generates clear lessons  
-(Core Concept → Explanation → Examples → Exercises → Quiz → Mind Map).  
-Includes caching, progress tracking, regeneration limits, and Google Auth.
+### [Guidra](https://guidra.vercel.app) — AI-Based Structured Learning Platform
+Designed and developed a structured AI learning system with modular backend architecture.
 
-🔗 **Live:** *https://guidra.vercel.app*  
-🔗 **Repo:** *(Private — architecture available on request)*
+**Key aspects:**
+- Component-based content generation
+- Caching and regeneration control
+- Quiz-gated progression system
+- Versioned content handling
+- PWA deployment
+
+### Production Freelance Project
+Delivered and deployed a responsive business website for a local company.
+
+**Scope included:**
+- Frontend development and optimization
+- Domain & hosting configuration
+- Production deployment
+- SEO improvements
+- Direct client communication and iteration
 
 ---
 
-#### [EasyList](https://github.com/George1518/easyList)
-Simple MEN-stack todo app with themes and clean task flow.
+## 🛠️ Technical Stack
 
-#### [MERN Stock Management](https://github.com/George1518/mern-stock-management)
-Full CRUD stock management system with authentication and role permissions.
+**Frontend**  
+React, JavaScript, TypeScript (learning), Tailwind CSS, Material UI
 
-#### [EventHub](https://github.com/George1518/event-booking-management)
-Event booking platform with user booking and admin event management.
+**Backend**  
+Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
+
+**Systems**  
+Linux (Rocky OS), Bash scripting, SSH, basic cloud VM provisioning
+
+**Tools**  
+Git, GitHub, Postman, Vercel, Render, Microsoft Azure (VM setup & configuration)
 
 ---
 
-### 📫 Contact
+## 📚 Focus Areas
 
-- **Email:** guganrajrengaraju@gmail.com  
-- **Portfolio:** https://george1518.github.io/my-portfolio/
+- Linux system administration
+- Backend architecture & API design
+- Cloud VM deployment & networking fundamentals
+- Automation via shell scripting
+- Azure VM deployment workflows
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [guganrajrengaraju@gmail.com](mailto:guganrajrengaraju@gmail.com)
+- **Portfolio:** [https://www.guganraj.me](https://www.guganraj.me)
+- **X:** [@mrtuxcoder](https://x.com/mrtuxcoder)
 
 ---
 
 <p align="center">
-  <em>"Learning never exhausts the mind."</em>
+  <i>Building things that matter, one commit at a time.</i>
 </p>
